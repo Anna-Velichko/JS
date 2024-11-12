@@ -1,0 +1,8 @@
+// - створити функцію яка обчислює та повертає площу прямокутника зі сторонами а і б
+
+function square(a, b) {
+    let result = a * b;
+    return result;
+}
+console.log(square());
+
